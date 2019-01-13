@@ -1,0 +1,11 @@
+email   pass    fullName    secret      setting
+acb     123     ABC         t3123       init              Vừa đăng ký
+acb     123     ABC         t3123       on          Thay đổi setting - Nhập FA code
+acb     123     ABC         t3123       off              Thay đổi setting - Không Nhập FA code
+
+
+1. init
+2. off on                   đúng email, pass, secret -> login
+
+FPQUWLGUO7TU3KXX
+MYAFY26PWXDE33DM
